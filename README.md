@@ -1,2 +1,7 @@
-# zito-java-refactoring
-zito-java-refactoring
+# [코딩으로 학습하는 리팩토링 강의](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/dashboard) 
+
+- [ ] 섹션 1. 이해하기 힘든 이름
+  - [ ] 냄새 1. 이해하기 힘든 이름
+  - [ ] 리팩토링 1. 함수 선언 변경하기
+  - [ ] 리팩토링 2. 변수 이름 바꾸기
+  - [ ] 리팩토링 3. 필드 이름 바꾸기
